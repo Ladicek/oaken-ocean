@@ -31,7 +31,7 @@
         <version.java>1.8</version.java>
 
         <version.javax.enterprise.cdi-api>2.0.SP1</version.javax.enterprise.cdi-api>
-        <version.junit.junit>4.12</version.junit.junit>
+        <version.junit.junit>4.13.1</version.junit.junit>
         <version.org.apache.maven.plugins.maven-compiler-plugin>3.6.1</version.org.apache.maven.plugins.maven-compiler-plugin>
         <version.org.apache.maven.plugins.maven-surefire-plugin>2.22.1</version.org.apache.maven.plugins.maven-surefire-plugin>
         <version.org.assertj.assertj-core>3.11.1</version.org.assertj.assertj-core>
